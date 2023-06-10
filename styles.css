@@ -1,0 +1,62 @@
+body {
+    background-color: grey;
+}
+
+.flex {
+    background: blue;
+    
+    width: 400;
+    height: 300;
+    border-radius: 20px;
+}
+h1 {
+    color: transparent;
+}
+
+
+.blanco {
+    background-color: white;
+}
+
+.rojo {
+    background-color: red;
+}
+
+.arriba {
+    display: inline-flex;
+    justify-content: space-between;
+    width: 500;
+    height: 160;
+}
+
+.abajo {
+    display: inline-flex;
+    justify-content: space-between;
+    align-items: end;
+    width: 440;
+    height: 160;
+}
+
+.pq {
+    width: 238px;
+    height: 129px;
+}
+
+.gr {
+    width:374px;
+    height: 128px;
+    margin-left: 20px;
+}
+
+.pq2 {
+    width: 221px;
+    height: 107px;
+    margin-top: 12px;
+}
+
+.gr2 {
+    width: 355px;
+    height: 111px;
+    margin-top: 10px;
+    margin-left: 18px;
+}
